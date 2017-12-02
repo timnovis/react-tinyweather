@@ -1,0 +1,25 @@
+.app {
+  margin: 1rem;
+  width: 400px;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+header {
+  border-bottom: 1px solid #ccc;
+}
+
+header h1 {
+  font-size: 1rem;
+}
+
+header h1 .emoji {
+  float: right;
+  font-size: 1.5rem;
+  top: -5px;
+  position: relative;
+}
+
+.map {
+  margin-top: 1rem;
+}
